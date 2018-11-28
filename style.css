@@ -1,0 +1,30 @@
+body,p,form,input{margin: 0}
+#form{
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid #555;
+    }
+
+form dd{
+    font-size: 14px;
+    }
+
+.form-title{
+    text-align: center;
+    }
+
+.account,.password{
+    margin-bottom: 20px;
+    }
+
+
+input[type="text"] {
+    width: 300px;
+    padding: 4px;
+    font-size: 14px;
+    }
+    
+.submit{
+    text-align: right;
+    }
